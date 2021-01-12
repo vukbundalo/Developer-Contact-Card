@@ -5,9 +5,6 @@
 
 Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
 
-![Finished App](https://github.com/vukbundalo/Images/blob/main/card.png)
-
-
 ## What I learned while building this app 
 
 * How to create Stateless Widgets
@@ -19,6 +16,10 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to style Text widgets
 * How to read and use Flutter Documentation
 * How to use flutter url_launcher and flutter_phone_direct_call packages to namage calls 
+
+
+![Finished App](https://github.com/vukbundalo/Images/blob/main/card.png)
+
 
 
 
